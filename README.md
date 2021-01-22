@@ -75,3 +75,9 @@ Why some databases were disqualified?
 Articles with range of databases: [Predictive analytics today](https://www.predictiveanalyticstoday.com/top-graph-databases/), [Solutions reviews](https://solutionsreview.com/data-management/the-best-graph-databases-to-consider-in-2020/), 
 [Predictive analytics today, top free graph databases](https://www.predictiveanalyticstoday.com/top-free-graph-databases/), [Info world](https://www.infoworld.com/article/3408787/the-best-graph-databases.html), [Awesome open-source](https://awesomeopensource.com/projects/graph-database), [Dzone, top 5 graph databases](https://dzone.com/articles/top-5-graph-databases), [Stackoverflow Survey 2020](https://insights.stackoverflow.com/survey/2020#technology-databases-all-respondents4).
 
+
+Three the most promising contenders are ArrangoDB, Neo4J and Dgraph. All of them are great choices but on preliminary tests we discovered that Dgraph is unstable under load and ArrangoDB has slightly less active community in StackOverflow, so by total points = stars + so questions we will choose Neo4J.
+
+
+The code will follow shortly...
+
