@@ -17,11 +17,4 @@ class PlayerController @Autowired constructor(
         return player.opponents
     }
 
-
-    @GetMapping("/opponents/{nickname}")
-    fun retrieveOpponents(@PathVariable nickname: String): Player? {
-        //return playerRepository.findByNickname(nickname)
-        return null
-    }
-
 }

@@ -78,6 +78,4 @@ Articles with range of databases: [Predictive analytics today](https://www.predi
 
 Three the most promising contenders are ArrangoDB, Neo4J and Dgraph. All of them are great choices but on preliminary tests we discovered that Dgraph is unstable under load and ArrangoDB has slightly less active community in StackOverflow, so by total points = stars + so questions we will choose Neo4J.
 
-
-The code will follow shortly...
-
+The code is under `network` folder. Please, see more details in netwotk/README.md.
