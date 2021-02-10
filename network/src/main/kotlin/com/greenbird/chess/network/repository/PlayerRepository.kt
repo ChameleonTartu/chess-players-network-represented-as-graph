@@ -7,8 +7,6 @@ import org.springframework.data.repository.query.Param
 
 interface PlayerRepository : Neo4jRepository<Player, String> {
 
-    
-
     @Query("MATCH (p:Player {nickname: '?1'})-[]-(opponent: Player {nickname: '?2'}) RETURN p")
     fun hasOpponent(@Param("nickname") nickname: String, @Param("opponent") opponent: String): Player?
 }
