@@ -67,10 +67,10 @@ Why some databases were disqualified?
 
 - Proprietary: AllegroGraph, Ontotext GraphDB, Stardog, Graph Story, Amazon Neptune, IBM System G Native Store
 
-- Unlear status: [Oracle NoSQL](https://github.com/oracle-nosql), [Weaver](https://github.com/weaverplatform/weaver-database-graphdb)
+- Unclear status: [Oracle NoSQL](https://github.com/oracle-nosql), [Weaver](https://github.com/weaverplatform/weaver-database-graphdb)
 
 
-\*SO = [StackOverflow](https://stackoverflow.com/)
+*SO = [StackOverflow](https://stackoverflow.com/)
 
 Articles with range of databases: [Predictive analytics today](https://www.predictiveanalyticstoday.com/top-graph-databases/), [Solutions reviews](https://solutionsreview.com/data-management/the-best-graph-databases-to-consider-in-2020/), 
 [Predictive analytics today, top free graph databases](https://www.predictiveanalyticstoday.com/top-free-graph-databases/), [Info world](https://www.infoworld.com/article/3408787/the-best-graph-databases.html), [Awesome open-source](https://awesomeopensource.com/projects/graph-database), [Dzone, top 5 graph databases](https://dzone.com/articles/top-5-graph-databases), [Stackoverflow Survey 2020](https://insights.stackoverflow.com/survey/2020#technology-databases-all-respondents4).
